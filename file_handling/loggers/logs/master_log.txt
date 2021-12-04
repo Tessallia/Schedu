@@ -1,0 +1,8 @@
+%(pathname)s:s%(funcName)s:%(lineno)d:%(levelname)s
+:%(message)s
+%(pathname)s:s%(funcName)s:%(lineno)d:%(levelname)s
+:%(message)s
+%(pathname)s:s%(funcName)s:%(lineno)d:%(levelname)s
+:%(message)s
+%(pathname)s:s%(funcName)s:%(lineno)d:%(levelname)s
+:%(message)s

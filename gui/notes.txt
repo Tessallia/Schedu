@@ -1,0 +1,15 @@
+screens:
+    time views:
+        # should resize text base on size of screen/display and if text is too small in month or year
+        #   just use colored dots to represent events
+        year
+        month
+        week
+        day
+    create/edit events
+    create/edit tags
+    settings
+        graphics
+        sound
+        general
+
